@@ -60,14 +60,14 @@ The script will automatically check and offer to install:
 #### Quick Install (One Command)
 
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2003-installer/main/UT2003_installer_Online_Linux.sh && chmod +x UT2003_installer_Online_Linux.sh && ./UT2003_installer_Online_Linux.sh
+wget https://github.com/hudsonalbuquerque97-sys/ut2003-installer/blob/main/UT2003_instaler_Online_Linux.sh && chmod +x UT2003_installer_Online_Linux.sh && ./UT2003_installer_Online_Linux.sh
 ```
 
 #### Manual Installation
 
 1. **Download the script:**
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2003-installer/main/UT2003_installer_Online_Linux.sh
+wget https://github.com/hudsonalbuquerque97-sys/ut2003-installer/blob/main/UT2003_instaler_Online_Linux.sh
 ```
 
 2. **Make it executable:**
@@ -273,14 +273,14 @@ O script verificará e oferecerá instalação automática de:
 #### Instalação Rápida (Um Comando)
 
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2003-installer/main/UT2003_installer_Online_Linux.sh && chmod +x UT2003_installer_Online_Linux.sh && ./UT2003_installer_Online_Linux.sh
+wget https://github.com/hudsonalbuquerque97-sys/ut2003-installer/blob/main/UT2003_instaler_Online_Linux.sh && chmod +x UT2003_installer_Online_Linux.sh && ./UT2003_installer_Online_Linux.sh
 ```
 
 #### Instalação Manual
 
 1. **Baixe o script:**
 ```bash
-wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2003-installer/main/UT2003_installer_Online_Linux.sh
+wget https://github.com/hudsonalbuquerque97-sys/ut2003-installer/blob/main/UT2003_instaler_Online_Linux.sh
 ```
 
 2. **Torne-o executável:**
