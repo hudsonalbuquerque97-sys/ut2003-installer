@@ -1,0 +1,34 @@
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# Test files
+test_*
+test-*
+
+# Downloaded game files (don't commit large files)
+*.7z
+*.iso
+*.uz2
+
+# Installation directories
+/tmp/
+Games/
+.ut2003/
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.orig
+*.rej
